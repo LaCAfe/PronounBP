@@ -1,0 +1,245 @@
+%	
+2	pronoun (Pronouns)
+3	ppron (Personal Pronouns)
+4	i (I)
+5	we (We)
+6	you (You)
+7	shehe (SheHe)
+8	they (They)
+9	ipron (Impersonal Pronouns)
+%
+a	2	3	7	9		
+acê	2	3	6			
+al	2	9				
+algo	2	9				
+algorrém	2	9				
+alguém	2	9				
+algum	2	9				
+alguma	2	9				
+algumas	2	9				
+alguns	2	9				
+ancê	2	3	6			
+aquela	2	9				
+àquela	2	9				
+aquelas	2	9				
+àquelas	2	9				
+aquele	2	9				
+àquele	2	9				
+aqueles	2	9				
+àqueles	2	9				
+aquilo	2	9				
+àquilo	2	9				
+as	2	3	8			
+bem	2	9				
+brisa	2	9				
+bulhufas	2	9				
+bulufas	2	9				
+cada	2	9				
+certa	2	9				
+certas	2	9				
+certo	2	9				
+certos	2	9				
+comigo	2	3	4			
+conosco	2	3	5			
+consigo	2	3	7			
+contigo	2	3	6			
+convosco	2	3	6			
+cuja	2	9				
+cujas	2	9				
+cujo	2	9				
+cujos	2	9				
+dado	2	9				
+dalgum	2	9				
+dalguma	2	9				
+dalgumas	2	9				
+dalguns	2	9				
+daquela	2	9				
+daquelas	2	9				
+daquele	2	9				
+daqueles	2	9				
+daquilo	2	9				
+dela	2	3	7			
+delas	2	3	8			
+dele	2	3	7			
+deles	2	3	8			
+dessa	2	9				
+dessas	2	9				
+desse	2	9				
+desses	2	9				
+desta	2	9				
+destas	2	9				
+deste	2	9				
+destes	2	9				
+determinada	2	9				
+determinado	2	9				
+disso	2	9				
+disto	2	9				
+doutra	2	9				
+doutras	2	9				
+doutrem	2	9				
+doutro	2	9				
+doutros	2	9				
+dum	2	9				
+duma	2	9				
+dumas	2	9				
+duns	2	9				
+ela	2	3	7			
+elas	2	3	8			
+ele	2	3	7			
+eles	2	3	8			
+essa	2	9				
+essas	2	9				
+esse	2	9				
+esses	2	9				
+esso	2	9				
+esta	2	9				
+estas	2	9				
+este	2	9				
+estes	2	9				
+esto	2	9				
+eu	2	3	4			
+idem	9	2				
+isso	2	9				
+isto	2	9				
+la	2	3	7			
+las	2	3	8			
+lhe	2	3	6	7		
+lhes	2	3	6	8		
+lhufas	9	2				
+lo	3	2	7			
+los	2	3	8			
+mais	2	9				
+me	2	3	4			
+mecê	2	3	6			
+mesma	2	9				
+mesmas	2	9				
+mesmo	2	9				
+mesmos	2	9				
+meu	2	3	4			
+meus	2	3	4			
+mi	2	3	4			
+mim	2	3	4			
+minha	2	3	4			
+minhas	2	3	4			
+muita	2	9				
+muitas	2	9				
+muito	2	9				
+muitos	2	9				
+nada	2	9				
+nadica	2	9				
+nadinha	2	9				
+naquela	2	9				
+naquelas	2	9				
+naquele	2	9				
+naqueles	2	9				
+naquilo	2	9				
+neca	2	9				
+nela	2	3	7			
+nelas	2	3	8			
+nele	2	3	7			
+neles	2	3	8			
+nenhum	2	9				
+nenhuma	2	9				
+nenhumas	2	9				
+nenhuns	2	9				
+nessa	2	9				
+nessas	2	9				
+nesse	2	9				
+nesses	2	9				
+nesta	2	9				
+nestas	2	9				
+neste	2	9				
+nestes	2	9				
+nicles	2	9				
+ninguém	2	9				
+nisso	2	9				
+nisto	2	9				
+no-la	2	3	5			
+no-las	2	3	5			
+no-lo	2	3	5			
+no-los	2	3	5			
+nos	2	3	5			
+nós	2	3	5			
+nossa	2	3	5			
+nossas	2	3	5			
+nosso	2	3	5			
+nossos	2	3	5			
+o	2	3	7	9		
+ocê	2	3	6			
+onde	2	9				
+os	2	3	8			
+outra	2	9				
+outras	2	9				
+outrem	2	9				
+outro	2	9				
+outros	2	9				
+patavina	2	9				
+patavinas	2	9				
+picas	2	9				
+pitibiriba	2	9				
+pitibiribas	2	9				
+pouca	2	9				
+pouca*	2	9				
+poucas	2	9				
+pouco	2	9				
+poucos	2	9				
+quais	2	9				
+quaisquer	2	9				
+qual	2	9				
+qualquer	2	9				
+quanta	2	9				
+quantas	2	9				
+quanto	2	9				
+quantos	2	9				
+que	2	9				
+quejando	2	9				
+quem	2	9				
+se	2	3	7	9		
+semelhante	2	9				
+seu	2	3	6	7	8	
+seus	2	3	6	8		
+si	2	3	7			
+sua	2	3	6	7	8	
+suas	2	3	6	7	8	
+tal	9	2				
+tanta	2	9				
+tantas	2	9				
+tanto	2	9				
+tantos	2	9				
+te	2	3	6			
+teu	2	3	6			
+teus	2	3	6			
+ti	2	3	6			
+toda	2	9				
+todas	2	9				
+todo	2	9				
+tôdolos	2	9				
+todos	2	9				
+tu	2	3	6			
+tua	2	3	6			
+tuas	2	3	6			
+tudo	2	9				
+um	2	9				
+uma	2	9				
+umas	2	9				
+uns	2	9				
+vacê	2	3	6			
+várias	2	9				
+vários	2	9				
+vc	2	3	6			
+vcs	2	3	6			
+você	2	3	6			
+vocês	2	3	6			
+vo-la	2	3	6			
+vo-las	2	3	6			
+vo-lo	2	3	6			
+vo-los	2	3	6			
+vos	2	3	6			
+vós	2	3	6			
+vosmecê	2	3	6			
+vossa	2	3	6			
+vossas	2	3	6			
+vossemecê	2	3	6			
+vosso	2	3	6			
+vossos	2	3	6			
+xongas	2	9				
