@@ -1,8 +1,8 @@
 # PronounBP
-A dictionary of pronouns for Brazilian Portuguese
+A dictionary of pronouns for Brazilian Portuguese based in Brazilian Portuguese language version of the LIWC dictionary[1].
+The importance of pronouns as markers of attitude is well documented in the literature. Considering the importance of pronouns to Text Analysis, we produced a new pronoun dictionary, named PronounBP. To create this dictionary, we compared pronouns from LIWC2007pt with words present in a list of Portuguese pronouns (LOP1, available in https://github.com/LaCAfe/LOP1 ) and, after that, we (1) removed some pronouns from inadequate categories; (2) included words in the pronouns categories.
 
-The importance of pronouns as markers of attitude is well documented in the literature 
-Considering the importance of pronouns to Text Analysis, we produced a new pronoun dictionary, named PronounBP. To create this dictionary, we compared pronouns from LIWC2007pt with words present in a list of Portuguese pronouns (LOP1) and, after that, we (1) removed some pronouns from inadequate categories; (2) included words in the pronouns categories.
+[1] Balage Filho, P.P., Pardo, T.A., Aluísio, S.M.: An evaluation of the Brazilian Portuguese LIWC dictionary for sentiment analysis. In: Proceedings of the 9th Brazilian Symposium in Information and Human Language Technology (STIL).pp. 215–219 (2013)
 
 When using this file for academic purposes, please cite our article:
 
